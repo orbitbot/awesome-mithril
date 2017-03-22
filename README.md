@@ -26,7 +26,7 @@
 
 ### Tutorials
 
-- []()
+- [Isomorphic web application with Mithril](http://isomorphic-mithril.mvlabs.it)
 
 
 ### Testing
@@ -45,7 +45,7 @@
 
 ### Example Apps
 
-- []()
+- [Isomorphic web application with Mithril](https://github.com/mvlabs/isomorphic-mithril)
 
 ### Example Snippets
 
