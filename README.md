@@ -27,6 +27,7 @@
 ### Tutorials
 
 - [Isomorphic web application with Mithril](http://isomorphic-mithril.mvlabs.it)
+- [Example Mithril Components](https://mithril-examples.firebaseapp.com/)
 
 
 ### Testing
@@ -49,7 +50,7 @@
 
 ### Example Snippets
 
-- [Example Mithril Components](https://mithril-examples.firebaseapp.com/)
+- []()
 
 
 ### pre 1.0 Release
