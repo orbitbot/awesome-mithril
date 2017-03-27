@@ -32,13 +32,18 @@
 
 ### Testing
 
-- []()
+- [Ospec, Mithril's own fast test runner](https://github.com/lhorie/mithril.js/tree/rewrite/ospec)
+- [Mithril Query](https://github.com/StephanHoyer/mithril-query)
 
 
 ### Libraries & Plugins
 
-- []()
+- [Polythene, Material Design for Mithril](https://github.com/ArthurClemens/Polythene)
+- [mopt, optimize m() calls to JS objects](https://github.com/tivac/mopt)
 
+### Starter kits
+
+- []()
 
 ### Demos
 
