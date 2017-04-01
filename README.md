@@ -45,6 +45,10 @@
 
 - []()
 
+### Tools
+
+- [Mithril Template Converter, convert HTML to `m()` hyperscript](http://arthurclemens.github.io/mithril-template-converter/)
+
 ### Demos
 
 - []()
