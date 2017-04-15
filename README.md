@@ -60,6 +60,7 @@
 ### Example Snippets
 
 - [A basic drag and drop example](http://codepen.io/grilchgristle/pen/rmaZag)
+- [A somewhat opinionated typeahead](http://codepen.io/grilchgristle/pen/pPvGRg)
 
 
 ### pre 1.0 Release
