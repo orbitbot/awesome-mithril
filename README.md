@@ -51,7 +51,7 @@
 
 ### Demos
 
-- []()
+- [A somewhat opinionated typeahead](http://codepen.io/grilchgristle/pen/pPvGRg)
 
 ### Example Apps
 
