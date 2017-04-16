@@ -64,7 +64,7 @@
 
 - [A basic drag and drop example](http://codepen.io/grilchgristle/pen/rmaZag)
 - [A somewhat opinionated typeahead](http://codepen.io/grilchgristle/pen/pPvGRg)
-
+- [A simple carousel](https://github.com/spacejack/m-carousel)
 
 ### pre 1.0 Release
 
