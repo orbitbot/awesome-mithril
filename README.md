@@ -40,6 +40,7 @@
 
 - [Polythene, Material Design for Mithril](https://github.com/ArthurClemens/Polythene)
 - [mopt, optimize m() calls to JS objects](https://github.com/tivac/mopt)
+- [mithril-select, customizable select component](https://www.npmjs.com/package/mithril-select)
 
 ### Starter kits
 
@@ -56,6 +57,7 @@
 ### Example Apps
 
 - [Isomorphic web application with Mithril](https://github.com/mvlabs/isomorphic-mithril)
+- [Mithril tutorial app - TypeScript adaptation](https://github.com/spacejack/mithril-tutorial-ts)
 
 ### Example Snippets
 
