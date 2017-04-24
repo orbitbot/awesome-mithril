@@ -49,7 +49,7 @@
 
 ### Starter kits
 
-- []()
+- [Mithril/SASS/Webpack2](https://github.com/CreaturesInUnitards/mithril-sass-webpack-starter)
 
 ### Tools
 
