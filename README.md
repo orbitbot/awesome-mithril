@@ -24,6 +24,10 @@
 - [Gitter Chat Room](https://gitter.im/lhorie/mithril.js)
 - use `#mithriljs` on Twitter and other social media
 
+### Screencasts
+
+- [Mithril-related screencasts on Scrimba](https://scrimba.com/topic-mithril)
+
 ### Tutorials
 
 - [Isomorphic web application with Mithril](http://isomorphic-mithril.mvlabs.it)
