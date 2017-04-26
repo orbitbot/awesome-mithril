@@ -44,6 +44,7 @@
 
 - [Polythene, Material Design for Mithril](https://github.com/ArthurClemens/Polythene)
 - [mopt, optimize m() calls to JS objects](https://github.com/tivac/mopt)
+- [mithril-range, customizable range component](https://www.npmjs.com/package/mithril-range)
 - [mithril-select, customizable select component](https://www.npmjs.com/package/mithril-select)
 - [TypeScript types](https://www.npmjs.com/package/@types/mithril)
 
