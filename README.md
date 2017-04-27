@@ -3,10 +3,22 @@
 
 Mithril is a modern client-side Javascript framework for building Single Page Applications.
 
-## Content
+## Table of Content
 
 - [Official Resources](#official-resources)
 - [Community](#community)
+- [Learn](#learn)
+  * [Tutorials](#tutorials)
+  * [Screencasts](#screencasts)
+- [Examples](#examples)
+  * [Apps](#apps)
+  * [Snippets](#snippets)
+  * [Starter kits](#starter-kits)
+- [Testing](#testing)
+- [Libraries & Plugins](#libraries---plugins)
+- [Tools](#tools)
+- [pre 1.0 Release](#pre-10-release)
+- [License](#license)
 
 <br>
 
@@ -64,7 +76,7 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 
 ### Testing
 
-Mithril doesn't necessarily require specialized tools for testing, however the following are developed especially for the framework.
+Mithril does not require specialized tools for testing, however the following have developed from the framework directly of from the community.
 
 - [Ospec, Mithril's own fast test runner](https://github.com/lhorie/mithril.js/tree/rewrite/ospec)
 - [Mithril Query, query mithril virtual dom for testing purposes](https://github.com/StephanHoyer/mithril-query)
