@@ -61,6 +61,7 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 
 - [Isomorphic web application with Mithril](https://github.com/mvlabs/isomorphic-mithril)
 - [Mithril tutorial app - TypeScript adaptation](https://github.com/spacejack/mithril-tutorial-ts)
+- [Beginner-friendly app example](https://github.com/CreaturesInUnitards/mithril-tutorial)
 
 #### Snippets
 
