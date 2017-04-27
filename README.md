@@ -24,13 +24,13 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 
 ### Official Resources
 
-- [Website](http://mithril.js.org/)
-- [Simple Application Tutorial](http://mithril.js.org/simple-application.html)
-- [API Reference](http://mithril.js.org/api.html)
+- [Website](https://mithril.js.org/)
+- [Simple Application Tutorial](https://mithril.js.org/simple-application.html)
+- [API Reference](https://mithril.js.org/api.html)
 - [GitHub Repo](https://github.com/lhorie/mithril.js)
-- [Framework Comparison](http://mithril.js.org/framework-comparison.html)
-- [Change Log](http://mithril.js.org/change-log.html)
-- [Contribution Guide](http://mithril.js.org/contributing.html)
+- [Framework Comparison](https://mithril.js.org/framework-comparison.html)
+- [Change Log](https://mithril.js.org/change-log.html)
+- [Contribution Guide](https://mithril.js.org/contributing.html)
 - [Job listing](https://github.com/lhorie/mithril.js/wiki/JOBS)
 - [Who uses Mithril?](https://github.com/lhorie/mithril.js/wiki/Who-Uses-Mithril)
 
@@ -46,7 +46,7 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 
 #### Tutorials
 
-- [Isomorphic web application with Mithril](http://isomorphic-mithril.mvlabs.it)
+- [Isomorphic web application with Mithril](https://isomorphic-mithril.mvlabs.it)
 - [Example Mithril Components](https://mithril-examples.firebaseapp.com/)
 
 #### Screencasts
