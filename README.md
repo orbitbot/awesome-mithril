@@ -27,17 +27,17 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 - [Website](https://mithril.js.org/)
 - [Simple Application Tutorial](https://mithril.js.org/simple-application.html)
 - [API Reference](https://mithril.js.org/api.html)
-- [GitHub Repo](https://github.com/lhorie/mithril.js)
+- [GitHub Repo](https://github.com/MithrilJS/mithril.js)
 - [Framework Comparison](https://mithril.js.org/framework-comparison.html)
 - [Change Log](https://mithril.js.org/change-log.html)
 - [Contribution Guide](https://mithril.js.org/contributing.html)
-- [Job listing](https://github.com/lhorie/mithril.js/wiki/JOBS)
-- [Who uses Mithril?](https://github.com/lhorie/mithril.js/wiki/Who-Uses-Mithril)
+- [Job listing](https://github.com/MithrilJS/mithril.js/wiki/JOBS)
+- [Who uses Mithril?](https://github.com/MithrilJS/mithril.js/wiki/Who-Uses-Mithril)
 
 
 ### Community
 
-- [Gitter Chat Room](https://gitter.im/lhorie/mithril.js)
+- [Gitter Chat Room](https://gitter.im/MithrilJS/mithril.js)
 - use `#mithriljs` on Twitter and other social media
 
 <br>
@@ -81,7 +81,7 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 
 Mithril does not require specialized tools for testing, however the following have developed from the framework directly of from the community.
 
-- [Ospec, Mithril's own fast test runner](https://github.com/lhorie/mithril.js/tree/rewrite/ospec)
+- [Ospec, Mithril's own fast test runner](https://github.com/MithrilJS/mithril.js/tree/rewrite/ospec)
 - [Mithril Query, query mithril virtual dom for testing purposes](https://github.com/StephanHoyer/mithril-query)
 
 
@@ -104,7 +104,7 @@ Mithril does not require specialized tools for testing, however the following ha
 ### pre 1.0 Release
 
 - [Leo's Blog](http://lhorie.github.io/mithril-blog/)
-- [Github Wiki](https://github.com/lhorie/mithril.js/wiki) -- the wiki content is mostly about the 0.2 version, some material may be more up to date with the current API
+- [Github Wiki](https://github.com/MithrilJS/mithril.js/wiki) -- the wiki content is mostly about the 0.2 version, some material may be more up to date with the current API
 
 <br>
 
