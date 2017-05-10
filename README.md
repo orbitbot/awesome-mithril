@@ -37,7 +37,7 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 
 ### Community
 
-- [Gitter Chat Room](https://gitter.im/MithrilJS/mithril.js)
+- [Gitter Chat Room](https://gitter.im/mithriljs/mithril.js)
 - use `#mithriljs` on Twitter and other social media
 
 <br>
@@ -46,7 +46,7 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 
 #### Tutorials
 
-- [Isomorphic web application with Mithril](https://isomorphic-mithril.mvlabs.it)
+- [Isomorphic web application with Mithril](https://isomorphic-mithril.mvlabs.it/en/)
 - [Example Mithril Components](https://mithril-examples.firebaseapp.com/)
 
 #### Screencasts
@@ -88,7 +88,7 @@ Mithril does not require specialized tools for testing, however the following ha
 ### Libraries & Plugins
 
 - [Polythene, Material Design for Mithril](https://github.com/ArthurClemens/Polythene)
-- [mopt, optimize `m()` calls to javascript objects](https://github.com/tivac/mopt)
+- [mopt, optimize `m()` calls to javascript objects](https://github.com/MithrilJS/mopt)
 - [mithril-range, customizable range component](https://www.npmjs.com/package/mithril-range)
 - [mithril-select, customizable select component](https://www.npmjs.com/package/mithril-select)
 - [TypeScript types](https://www.npmjs.com/package/@types/mithril)
