@@ -73,6 +73,7 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 
 - [Mithril/SASS/Webpack2](https://github.com/CreaturesInUnitards/mithril-sass-webpack-starter)
 - [Mithril/Typescript/SASS/PostCSS/Webpack2](https://github.com/spacejack/mithril-webpack-ts)
+- [Mithril/Typescript/PostCSS/Browserify/HMR/Budō](https://github.com/spacejack/mithril-browserify-ts-budo)
 
 <br>
 
@@ -87,7 +88,7 @@ Mithril does not require specialized tools for testing, however the following ha
 ### Libraries & Plugins
 
 - [Polythene, Material Design for Mithril](https://github.com/ArthurClemens/Polythene)
-- [mopt, optimize `m() calls to javascript objects](https://github.com/tivac/mopt)
+- [mopt, optimize `m()` calls to javascript objects](https://github.com/tivac/mopt)
 - [mithril-range, customizable range component](https://www.npmjs.com/package/mithril-range)
 - [mithril-select, customizable select component](https://www.npmjs.com/package/mithril-select)
 - [TypeScript types](https://www.npmjs.com/package/@types/mithril)
