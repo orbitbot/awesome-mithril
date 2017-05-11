@@ -97,7 +97,7 @@ Mithril does not require specialized tools for testing, however the following ha
 ### Tools
 
 - [Mithril Template Converter, convert HTML to `m()` hyperscript](http://arthurclemens.github.io/mithril-template-converter/)
-
+- [Mithril Emmet VSCode Extension](https://marketplace.visualstudio.com/items?itemName=FallenMax.mithril-emmet)
 
 <br>
 
