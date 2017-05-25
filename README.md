@@ -65,8 +65,8 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 
 #### Snippets
 
-- [A basic drag and drop example](http://codepen.io/grilchgristle/pen/rmaZag)
-- [A somewhat opinionated typeahead](http://codepen.io/grilchgristle/pen/pPvGRg)
+- [A basic drag and drop example](https://codepen.io/grilchgristle/pen/rmaZag)
+- [A somewhat opinionated typeahead](https://codepen.io/grilchgristle/pen/pPvGRg)
 - [A simple carousel](https://github.com/spacejack/m-carousel)
 
 #### Starter kits
