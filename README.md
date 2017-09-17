@@ -1,9 +1,12 @@
 # awesome-mithril [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+[<img src="https://mithril.js.org/logo.svg" align="right" width="100">](https://mithril.js.org)
+
 > A curated list of mithril.js awesome
 
 Mithril is a modern client-side Javascript framework for building Single Page Applications.
 
-## Table of Content
+## Contents
 
 - [Official Resources](#official-resources)
 - [Community](#community)
@@ -60,8 +63,8 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 #### Apps
 
 - [Isomorphic web application with Mithril](https://github.com/mvlabs/isomorphic-mithril)
-- [Mithril tutorial app - TypeScript adaptation](https://github.com/spacejack/mithril-tutorial-ts)
-- [Freddy - Mobile Reddit Reader](https://github.com/spacejack/freddy)
+- [Mithril tutorial app](https://github.com/spacejack/mithril-tutorial-ts) - TypeScript adaptation
+- [Freddy](https://github.com/spacejack/freddy) - Mobile Reddit Reader
 
 #### Snippets
 
@@ -83,22 +86,22 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 
 Mithril does not require specialized tools for testing, however the following have developed from the framework directly of from the community.
 
-- [Ospec, Mithril's own fast test runner](https://github.com/MithrilJS/mithril.js/tree/rewrite/ospec)
-- [Mithril Query, query mithril virtual dom for testing purposes](https://github.com/MithrilJS/mithril-query)
+- [Ospec](https://github.com/MithrilJS/mithril.js/tree/rewrite/ospec) - Mithril's own fast test runner
+- [Mithril Query](https://github.com/MithrilJS/mithril-query) - query mithril virtual dom for testing purposes
 
 
 ### Libraries & Plugins
 
-- [Polythene, Material Design for Mithril](https://github.com/ArthurClemens/Polythene)
-- [mopt, optimize `m()` calls to javascript objects](https://github.com/MithrilJS/mopt)
-- [mithril-range, customizable range component](https://www.npmjs.com/package/mithril-range)
-- [mithril-select, customizable select component](https://www.npmjs.com/package/mithril-select)
+- [Polythene](https://github.com/ArthurClemens/Polythene) - Material Design for Mithril
+- [mopt](https://github.com/MithrilJS/mopt) - optimize `m()` calls to javascript objects
+- [mithril-range](https://www.npmjs.com/package/mithril-range) - customizable range component
+- [mithril-select](https://www.npmjs.com/package/mithril-select) - customizable select component
 - [TypeScript types](https://www.npmjs.com/package/@types/mithril)
 
 
 ### Tools
 
-- [Mithril Template Converter, convert HTML to `m()` hyperscript](http://arthurclemens.github.io/mithril-template-converter/)
+- [Mithril Template Converter](http://arthurclemens.github.io/mithril-template-converter/) - convert HTML to `m()` hyperscript
 - [Mithril Emmet VSCode Extension](https://marketplace.visualstudio.com/items?itemName=FallenMax.mithril-emmet)
 
 <br>
@@ -106,7 +109,7 @@ Mithril does not require specialized tools for testing, however the following ha
 ### pre 1.0 Release
 
 - [Leo's Blog](http://lhorie.github.io/mithril-blog/)
-- [Github Wiki](https://github.com/MithrilJS/mithril.js/wiki) -- the wiki content is mostly about the 0.2 version, some material may be more up to date with the current API
+- [Github Wiki](https://github.com/MithrilJS/mithril.js/wiki) - the wiki content is mostly about the 0.2 version, some material may be more up to date with the current API
 
 <br>
 
