@@ -92,7 +92,7 @@ Mithril does not require specialized tools for testing, however the following ha
 
 ### Libraries & Plugins
 
-- [Polythene](https://github.com/ArthurClemens/Polythene) - Material Design for Mithril
+- [Polythene](https://github.com/ArthurClemens/Polythene) - Material Design for Mithril and React
 - [mopt](https://github.com/MithrilJS/mopt) - optimize `m()` calls to javascript objects
 - [mithril-range](https://www.npmjs.com/package/mithril-range) - customizable range component
 - [mithril-select](https://www.npmjs.com/package/mithril-select) - customizable select component
