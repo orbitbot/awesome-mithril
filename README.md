@@ -114,6 +114,11 @@ Mithril does not require specialized tools for testing, however the following ha
 
 <br>
 
+### Mithril in the Wild
+
+- [flems.io](https://flems.io) - Web Playground & Sandbox with easily shareable urls
+- [lichobile](https://lichess.org/mobile) - Mobile version for lichess.org using Mithril inside cordova
+
 ### License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
