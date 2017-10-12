@@ -98,6 +98,7 @@ Mithril does not require specialized tools for testing, however the following ha
 - [mithril-range](https://www.npmjs.com/package/mithril-range) - customizable range component
 - [mithril-select](https://www.npmjs.com/package/mithril-select) - customizable select component
 - [TypeScript types](https://www.npmjs.com/package/@types/mithril)
+- [mithril-helpers](https://github.com/isiahmeadows/mithril-helpers) - A useful collection of Mithril helpers and utilities
 
 
 ### Tools
