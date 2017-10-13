@@ -2,7 +2,7 @@
 
 [<img src="https://mithril.js.org/logo.svg" align="right" width="100">](https://mithril.js.org)
 
-> A curated list of mithril.js awesome
+> A curated list of Mithril.js awesome
 
 Mithril is a modern client-side Javascript framework for building Single Page Applications.
 
