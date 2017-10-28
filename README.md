@@ -52,7 +52,7 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 
 #### Apps
 
-- [Isomorphic web application with Mithril](https://github.com/mvlabs/isomorphic-mithril)
+- [Isomorphic web application with Mithril](https://github.com/mvlabs/isomorphic-mithril) - Serverside rendering example using [mithril-node-render](https://github.com/MithrilJS/mithril-node-render).
 - [Mithril tutorial app](https://github.com/spacejack/mithril-tutorial-ts) - The tutorial app from mithril.js.org adapted to Typescript.
 - [Freddy](https://github.com/spacejack/freddy) - Mobile Reddit Reader.
 - [Flems](https://github.com/porsager/flems) - Web playground & sandbox as an embeddable module.
@@ -73,7 +73,7 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 
 ### Testing
 
-Mithril does not require specialized tools for testing, however the following have developed from the framework directly of from the community.
+Mithril does not require specialized tools for testing, however the following have been developed as side projects to the main framework or by the community.
 
 - [Ospec](https://github.com/MithrilJS/mithril.js/tree/rewrite/ospec) - Mithril's own fast test runner.
 - [Mithril Query](https://github.com/MithrilJS/mithril-query) - Query Mithril virtual dom for testing purposes.
@@ -102,7 +102,7 @@ Mithril does not require specialized tools for testing, however the following ha
 ### Mithril in the Wild
 
 - [flems.io](https://flems.io) - Web Playground & Sandbox with easily shareable urls and other neat features.
-- [lichobile](https://lichess.org/mobile) - Mobile version for lichess.org using Mithril inside cordova
+- [lichobile](https://lichess.org/mobile) - Mobile version for lichess.org using Mithril inside Cordova.
 
 ### License
 
