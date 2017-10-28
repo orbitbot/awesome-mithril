@@ -53,7 +53,7 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 #### Apps
 
 - [Isomorphic web application with Mithril](https://github.com/mvlabs/isomorphic-mithril)
-- [Mithril tutorial app](https://github.com/spacejack/mithril-tutorial-ts) - TypeScript adaptation
+- [Mithril tutorial app](https://github.com/spacejack/mithril-tutorial-ts) - The tutorial app from mithril.js.org adapted to Typescript.
 - [Freddy](https://github.com/spacejack/freddy) - Mobile Reddit Reader.
 - [Flems](https://github.com/porsager/flems) - Web playground & sandbox as an embeddable module.
 
@@ -71,8 +71,6 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 - [Mithril/Typescript/SASS/PostCSS/Webpack2](https://github.com/spacejack/mithril-webpack-ts)
 - [Mithril/Typescript/PostCSS/Browserify/HMR/Budō](https://github.com/spacejack/mithril-browserify-ts-budo)
 
-<br>
-
 ### Testing
 
 Mithril does not require specialized tools for testing, however the following have developed from the framework directly of from the community.
@@ -87,7 +85,7 @@ Mithril does not require specialized tools for testing, however the following ha
 - [mopt](https://github.com/MithrilJS/mopt) - Optimize `m()` calls to javascript objects.
 - [mithril-range](https://www.npmjs.com/package/mithril-range) - Customizable range component.
 - [mithril-select](https://www.npmjs.com/package/mithril-select) - Customizable select component.
-- [TypeScript types](https://www.npmjs.com/package/@types/mithril)
+- [TypeScript types](https://www.npmjs.com/package/@types/mithril) - Typescript type definitions for Mithril.
 - [mithril-helpers](https://github.com/isiahmeadows/mithril-helpers) - Collection of Mithril helpers and utilities.
 
 
@@ -96,14 +94,10 @@ Mithril does not require specialized tools for testing, however the following ha
 - [Mithril Template Converter](http://arthurclemens.github.io/mithril-template-converter/) - Convert HTML to `m()` hyperscript.
 - [Mithril Emmet VSCode Extension](https://marketplace.visualstudio.com/items?itemName=FallenMax.mithril-emmet) - Add Emmet (zen-coding) support for Mithril inside of VSCode.
 
-<br>
-
 ### pre 1.0 Release
 
 - [Leo's Blog](http://lhorie.github.io/mithril-blog/) - Leo, the main Mithril author, writes about virtual dom and tips and tricks.
 - [Github Wiki](https://github.com/MithrilJS/mithril.js/wiki) - Wiki content is mostly about the 0.2 version, some material may be more up to date with the current API.
-
-<br>
 
 ### Mithril in the Wild
 
