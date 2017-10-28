@@ -1,8 +1,8 @@
-# awesome-mithril [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Mithril [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://mithril.js.org/logo.svg" align="right" width="100">](https://mithril.js.org)
 
-> A curated list of Mithril.js awesome
+> A curated list of Mithril awesome
 
 Mithril is a modern client-side Javascript framework for building Single Page Applications.
 
@@ -23,8 +23,6 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 - [pre 1.0 Release](#pre-10-release)
 - [License](#license)
 
-<br>
-
 ### Official Resources
 
 - [Website](https://mithril.js.org/)
@@ -41,9 +39,7 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 ### Community
 
 - [Gitter Chat Room](https://gitter.im/mithriljs/mithril.js)
-- use `#mithriljs` on Twitter and other social media
-
-<br>
+- Use `#mithriljs` on Twitter and other social media.
 
 ### Learn
 
@@ -52,26 +48,20 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 - [Isomorphic web application with Mithril](https://isomorphic-mithril.mvlabs.it/en/)
 - [Example Mithril Components](https://mithril-examples.firebaseapp.com/)
 
-#### Screencasts
-
-- [Mithril-related screencasts on Scrimba](https://scrimba.com/topic-mithril)
-
-<br>
-
 ### Examples
 
 #### Apps
 
 - [Isomorphic web application with Mithril](https://github.com/mvlabs/isomorphic-mithril)
 - [Mithril tutorial app](https://github.com/spacejack/mithril-tutorial-ts) - TypeScript adaptation
-- [Freddy](https://github.com/spacejack/freddy) - Mobile Reddit Reader
-- [Flems](https://github.com/porsager/flems) - Web playground & sandbox as an embeddable module
+- [Freddy](https://github.com/spacejack/freddy) - Mobile Reddit Reader.
+- [Flems](https://github.com/porsager/flems) - Web playground & sandbox as an embeddable module.
 
 #### Snippets
 
-- [A basic drag and drop example](https://codepen.io/grilchgristle/pen/rmaZag)
-- [A somewhat opinionated typeahead](https://codepen.io/grilchgristle/pen/pPvGRg)
-- [A simple carousel](https://github.com/spacejack/m-carousel)
+- [Basic drag and drop example](https://codepen.io/grilchgristle/pen/rmaZag)
+- [Somewhat opinionated typeahead](https://codepen.io/grilchgristle/pen/pPvGRg)
+- [Simple carousel](https://github.com/spacejack/m-carousel)
 - [Mithril-Datepicker](https://github.com/CreaturesInUnitards/mithril-datepicker)
 - [Filter using CSS](https://flems.io/#0=N4IgzgpgNhDGAuEAmIBcIB0ArMIA0IAZgJYy6oDaoAdgIYC2EamAFvPVPiLAPbWL9mIAL54aDJumy4CvfhEHo5YeAAI6jMKoC8qgOQAZWgFcATtFUBRWqfgtaqgFLGoxJz1NI+qgCq0A7tQAng4A4hAeAObEtNTUqgBi5kgQpsSwANYOAIJxxFmqANIKQRDw8A4AsjbE1BCq2QBGpgy+PG7hURCxdFZI-rUOAGq0MGkOAOq11MSEyaoAQhAAbr4QYGAOAEqxKfXZngqJtPDE9LQsqgDKxptxDgCSaVrVpssOV7EO1qZ1KrX1BbmaheeIGMrpGLuSDleoATVoYHoANUr0iCnqlR49nojCQRQUSFGqi2xkaR0csTKiESyVS6Q+xKGZQcAHkZhVVEZlnwoZYkEE7EUar1CsQAF7ioKqIbEHhQHKuSANahYaAMtqNGJaQonel1VHEcbxV5BBUgvQYMAAB1c8AAFHp9ABKAA61HdMDUAEdjKlpbo9Hp3apQ6p3fQMPQeMZ+PavLBjIx+BhGjwBXhVMAQ6plsQIP5UKp7c6dAA+VQUHOh+iO2rW4zwPSZ7PxMOh95QP1F33+vDVsO86gN+BF+raCu90wB1QQDAVUzo+AYTt++c8Aw8fypADCiIgJYHwmd-bbNcdKjNEGbqin0oAZPfVAADAehjB31SuVDUHgOiinPAMCqAAVLorogAAJMAd7CBBAC6patu27ZIMQNoKkERa-nUb6qHBZ4vieA61noaHLB+frTs2eEaOsUa0Na9rxBOeHnnorg3shKHtoBMDYeum7bqYe6QIehHtqI6huhJqgye28mqPB7rHiIYggHRzAYLAGxcHIAjwEIwjwQQrjUBk5BUCAZicOgbDwNaYCoAA9M5sbWhkkTaTw9DOcidhpJwBDwEE1qSCAOAiPBwhAA)
 
@@ -87,37 +77,37 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 
 Mithril does not require specialized tools for testing, however the following have developed from the framework directly of from the community.
 
-- [Ospec](https://github.com/MithrilJS/mithril.js/tree/rewrite/ospec) - Mithril's own fast test runner
-- [Mithril Query](https://github.com/MithrilJS/mithril-query) - query mithril virtual dom for testing purposes
+- [Ospec](https://github.com/MithrilJS/mithril.js/tree/rewrite/ospec) - Mithril's own fast test runner.
+- [Mithril Query](https://github.com/MithrilJS/mithril-query) - Query Mithril virtual dom for testing purposes.
 
 
 ### Libraries & Plugins
 
-- [Polythene](https://github.com/ArthurClemens/Polythene) - Material Design for Mithril and React
-- [mopt](https://github.com/MithrilJS/mopt) - optimize `m()` calls to javascript objects
-- [mithril-range](https://www.npmjs.com/package/mithril-range) - customizable range component
-- [mithril-select](https://www.npmjs.com/package/mithril-select) - customizable select component
+- [Polythene](https://github.com/ArthurClemens/Polythene) - Material Design for Mithril and React.
+- [mopt](https://github.com/MithrilJS/mopt) - Optimize `m()` calls to javascript objects.
+- [mithril-range](https://www.npmjs.com/package/mithril-range) - Customizable range component.
+- [mithril-select](https://www.npmjs.com/package/mithril-select) - Customizable select component.
 - [TypeScript types](https://www.npmjs.com/package/@types/mithril)
-- [mithril-helpers](https://github.com/isiahmeadows/mithril-helpers) - A useful collection of Mithril helpers and utilities
+- [mithril-helpers](https://github.com/isiahmeadows/mithril-helpers) - Collection of Mithril helpers and utilities.
 
 
 ### Tools
 
-- [Mithril Template Converter](http://arthurclemens.github.io/mithril-template-converter/) - convert HTML to `m()` hyperscript
-- [Mithril Emmet VSCode Extension](https://marketplace.visualstudio.com/items?itemName=FallenMax.mithril-emmet)
+- [Mithril Template Converter](http://arthurclemens.github.io/mithril-template-converter/) - Convert HTML to `m()` hyperscript.
+- [Mithril Emmet VSCode Extension](https://marketplace.visualstudio.com/items?itemName=FallenMax.mithril-emmet) - Add Emmet (zen-coding) support for Mithril inside of VSCode.
 
 <br>
 
 ### pre 1.0 Release
 
-- [Leo's Blog](http://lhorie.github.io/mithril-blog/)
-- [Github Wiki](https://github.com/MithrilJS/mithril.js/wiki) - the wiki content is mostly about the 0.2 version, some material may be more up to date with the current API
+- [Leo's Blog](http://lhorie.github.io/mithril-blog/) - Leo, the main Mithril author, writes about virtual dom and tips and tricks.
+- [Github Wiki](https://github.com/MithrilJS/mithril.js/wiki) - Wiki content is mostly about the 0.2 version, some material may be more up to date with the current API.
 
 <br>
 
 ### Mithril in the Wild
 
-- [flems.io](https://flems.io) - Web Playground & Sandbox with easily shareable urls
+- [flems.io](https://flems.io) - Web Playground & Sandbox with easily shareable urls and other neat features.
 - [lichobile](https://lichess.org/mobile) - Mobile version for lichess.org using Mithril inside cordova
 
 ### License
