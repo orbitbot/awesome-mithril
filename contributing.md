@@ -8,9 +8,9 @@ Any contributions should be Mithril-related, but they might not fit into the exi
 - Make an individual pull request for each suggestion.
 - Use the following format: `- [List Name](link)` and add a relevant description to the link itself, adhering to the enforced format for _Awesome lists_:
 
-  - Each link description starts with an uppercase character and ends with a period.  
-    - Example: `[AVA](…) - JavaScript test runner.`  
-  - Drop all the "A" / "An" prefixes in the descriptions.
+  - Each link description starts with an uppercase character and ends with a period.
+  - Example: `[AVA](…) - JavaScript test runner.`
+  - Drop all the "A" / "An" prefixes in the descriptions.
   - Consistent and correct naming. For example, Node.js, not NodeJS or node.js.
 
 - Link additions should be added to the bottom of the relevant category.
