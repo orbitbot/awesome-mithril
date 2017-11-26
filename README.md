@@ -56,6 +56,7 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 - [Mithril tutorial app](https://github.com/spacejack/mithril-tutorial-ts) - The tutorial app from mithril.js.org adapted to Typescript.
 - [Freddy](https://github.com/spacejack/freddy) - Mobile Reddit Reader.
 - [Flems](https://github.com/porsager/flems) - Web playground & sandbox as an embeddable module.
+- [mithril-slides](https://github.com/wulab/mithril-slides) - Keynote-inspired presentation app.
 
 #### Snippets
 
