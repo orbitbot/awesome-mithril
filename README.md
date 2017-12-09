@@ -89,7 +89,7 @@ Mithril does not require specialized tools for testing, however the following ha
 - [mithril-select](https://www.npmjs.com/package/mithril-select) - Customizable select component.
 - [TypeScript types](https://www.npmjs.com/package/@types/mithril) - Typescript type definitions for Mithril.
 - [mithril-helpers](https://github.com/isiahmeadows/mithril-helpers) - Collection of Mithril helpers and utilities.
-
+- [mithril-transition-group](https://github.com/vasilrimar/mithril-transition-group) - Components for creating state/class based transitions.
 
 ### Tools
 
