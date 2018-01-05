@@ -73,6 +73,7 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 - [Mithril/SASS/Webpack2](https://github.com/CreaturesInUnitards/mithril-sass-webpack-starter)
 - [Mithril/Typescript/SASS/PostCSS/Webpack2](https://github.com/spacejack/mithril-webpack-ts)
 - [Mithril/Typescript/PostCSS/Browserify/HMR/Budō](https://github.com/spacejack/mithril-browserify-ts-budo)
+- [Game development with Mithril/THREE.js/Typescript](https://github.com/spacejack/three-mithril-ts)
 
 ### Testing
 
