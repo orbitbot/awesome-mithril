@@ -92,6 +92,7 @@ Mithril does not require specialized tools for testing, however the following ha
 - [TypeScript types](https://www.npmjs.com/package/@types/mithril) - Typescript type definitions for Mithril.
 - [mithril-helpers](https://github.com/isiahmeadows/mithril-helpers) - Collection of Mithril helpers and utilities.
 - [mithril-transition-group](https://github.com/vasilrimar/mithril-transition-group) - Components for creating state/class based transitions.
+- [mithril-checkbox](https://www.npmjs.com/package/mithril-checkbox) - Customizable checkbox and radio button component.
 
 ### Tools
 
