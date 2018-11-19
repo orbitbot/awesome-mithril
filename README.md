@@ -95,6 +95,8 @@ Mithril does not require specialized tools for testing, however the following ha
 - [mithril-helpers](https://github.com/isiahmeadows/mithril-helpers) - Collection of Mithril helpers and utilities.
 - [mithril-transition-group](https://github.com/vasilrimar/mithril-transition-group) - Components for creating state/class based transitions.
 - [mithril-checkbox](https://www.npmjs.com/package/mithril-checkbox) - Customizable checkbox and radio button component.
+- [Construct-UI](https://vrimar.github.io/construct-ui/#/introduction/getting-started) - a UI library inspired by Blueprint, Polythene and Ant-design
+- [Mithril-materialized](https://erikvullings.github.io/mithril-materialized/index.html#!/home) - a materialized-CSS Mithril components library
 
 ### Tools
 
