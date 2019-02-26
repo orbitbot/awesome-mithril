@@ -18,7 +18,7 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
   * [Snippets](#snippets)
   * [Starter kits](#starter-kits)
 - [Testing](#testing)
-- [Libraries & Plugins](#libraries--plugins)
+- [Libraries & Plugins](#libraries-components--plugins)
 - [Tools](#tools)
 - [pre 1.0 Release](#pre-10-release)
 - [License](#license)
