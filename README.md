@@ -94,14 +94,14 @@ Mithril does not require specialized tools for testing, however the following ha
 - [Mithril-Datepicker](https://github.com/CreaturesInUnitards/mithril-datepicker) - Localizable date picker.
 - [TypeScript types](https://www.npmjs.com/package/@types/mithril) - Typescript type definitions for Mithril.
 - [mithril-helpers](https://github.com/isiahmeadows/mithril-helpers) - Collection of Mithril helpers and utilities.
-- [mithril-transition-group](https://github.com/vasilrimar/mithril-transition-group) - Components for creating state/class based transitions.
+- [mithril-transition-group](https://github.com/vrimar/mithril-transition-group) - Components for creating state/class based transitions.
 - [mithril-checkbox](https://www.npmjs.com/package/mithril-checkbox) - Customizable checkbox and radio button component.
 - [Construct-UI](https://vrimar.github.io/construct-ui/#/introduction/getting-started) - a UI library inspired by Blueprint, Polythene and Ant-design
 - [Mithril-materialized](https://erikvullings.github.io/mithril-materialized/index.html#!/home) - a materialized-CSS Mithril components library
 
 ### Tools
 
-- [Mithril Template Converter](http://arthurclemens.github.io/mithril-template-converter/) - Convert HTML to `m()` hyperscript.
+- [Mithril Template Converter](https://arthurclemens.github.io/mithril-template-converter/) - Convert HTML to `m()` hyperscript.
 - [Mithril Emmet VSCode Extension](https://marketplace.visualstudio.com/items?itemName=FallenMax.mithril-emmet) - Add Emmet (zen-coding) support for Mithril inside of VSCode.
 
 ### pre 1.0 Release
