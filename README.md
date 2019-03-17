@@ -58,6 +58,7 @@ Mithril is a modern client-side Javascript framework for building Single Page Ap
 - [Flems](https://github.com/porsager/flems) - Web playground & sandbox as an embeddable module.
 - [mithril-slides](https://github.com/wulab/mithril-slides) - Keynote-inspired presentation app.
 - [WaveShader](https://github.com/spacejack/waveshader) - Audio wave sketchpad.
+- [Flash Games Catalog](https://gitlab.com/beelzy/fg-catalog) - Catalog and launcher for flash games.
 
 #### Snippets
 
