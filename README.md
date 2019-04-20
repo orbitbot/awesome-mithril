@@ -58,6 +58,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 - [mithril-slides](https://github.com/wulab/mithril-slides) - Keynote-inspired presentation app.
 - [WaveShader](https://github.com/spacejack/waveshader) - Audio wave sketchpad.
 - [Flash Games Catalog](https://gitlab.com/beelzy/fg-catalog) - Catalog and launcher for flash games.
+- [Tutanota](https://github.com/tutao/tutanota) - Secure emails for everybody.
 
 #### Snippets
 
