@@ -106,6 +106,7 @@ Mithril does not require specialized tools for testing, however the following ha
 - [mithril-leaflet](https://erikvullings.github.io/mithril-leaflet) - a map component based on [Leaflet](http://leafletjs.com)
 - [mithril-portal](https://github.com/vrimar/mithril-portal) - a component for rendering inline children to `document.body`
 - [famicon](https://github.com/kliksob/famicon) - Fontawesome svg icons component for mithril
+- [mithril-graphql](https://github.com/benthepoet/mithril-graphql) - A lightweight GraphQL client for the Mithril framework.
 
 ### Tools
 
