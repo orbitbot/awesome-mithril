@@ -60,6 +60,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 - [Flash Games Catalog](https://gitlab.com/beelzy/fg-catalog) - Catalog and launcher for flash games.
 - [Tutanota](https://github.com/tutao/tutanota) - Secure emails for everybody.
 - [Podrain](https://github.com/podrain/podrain) - A web-based podcast app with offline capabilities.
+- [gomithrilapp](https://github.com/josephspurrier/gomithrilapp) - Sample notepad application in Mithril (JSX) and Go showing good practices and integrations with modern tools using Bulma, Cypress, Docker, ESLint, gvt, make, Rove, Swagger, and Travis-CI.
 
 #### Snippets
 
