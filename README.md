@@ -82,7 +82,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 - [Mithril/Typescript/PostCSS/Browserify/HMR/Budō](https://github.com/spacejack/mithril-browserify-ts-budo)
 - [Game development with Mithril/THREE.js/Typescript](https://github.com/spacejack/three-mithril-ts)
 - [Mithril Starter Project with Rollup, Babel, LiveReload, Jest and ESLint](https://github.com/ArthurClemens/mithril-starter-rollup)
-- [mithril-starter-kit](https://github.com/dhinesh03/mithril-starter-kit) -  A boilerplate Mithril application using Webpack 4, ES6, Sass/SCSS, Js and scss hot reload and eslint
+- [mithril-starter-kit](https://github.com/dhinesh03/mithril-starter-kit) - A boilerplate Mithril application using Webpack 4, ES6, Sass/SCSS, Js and scss hot reload and eslint
 
 ### Testing
 
@@ -107,7 +107,6 @@ Mithril does not require specialized tools for testing, however the following ha
 - [mithril-leaflet](https://erikvullings.github.io/mithril-leaflet) - a map component based on [Leaflet](http://leafletjs.com)
 - [mithril-portal](https://github.com/vrimar/mithril-portal) - a component for rendering inline children to `document.body`
 - [famicon](https://github.com/kliksob/famicon) - Fontawesome svg icons component for mithril
-- [mithril-graphql](https://github.com/benthepoet/mithril-graphql) - A lightweight GraphQL client for the Mithril framework.
 
 ### Tools
 
