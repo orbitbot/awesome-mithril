@@ -61,6 +61,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 - [Tutanota](https://github.com/tutao/tutanota) - Secure emails for everybody.
 - [Podrain](https://github.com/podrain/podrain) - A web-based podcast app with offline capabilities.
 - [gomithrilapp](https://github.com/josephspurrier/gomithrilapp) - Sample notepad application in Mithril (JSX) and Go showing good practices and integrations with modern tools using Bulma, Cypress, Docker, ESLint, gvt, make, Rove, Swagger, and Travis-CI.
+- [gomithriltsapp](https://github.com/josephspurrier/gomithriltsapp) - Sample notepad application in Mithril (TypeScript and HyperScript) and Go showing good practices and integrations with modern tools using Bulma, Cypress, Docker, ESLint, gvt, make, Mock Service Worker, Rove, Swagger, and Travis-CI.
 
 #### Snippets
 
