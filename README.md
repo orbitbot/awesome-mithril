@@ -83,6 +83,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 - [Game development with Mithril/THREE.js/Typescript](https://github.com/spacejack/three-mithril-ts)
 - [Mithril Starter Project with Rollup, Babel, LiveReload, Jest and ESLint](https://github.com/ArthurClemens/mithril-starter-rollup)
 - [mithril-starter-kit](https://github.com/dhinesh03/mithril-starter-kit) -  A boilerplate Mithril application using Webpack 4, ES6, Sass/SCSS, Js and scss hot reload and eslint
+- [sourcestack](https://github.com/stackplanet/sourcestack) - Template for full-stack Typescript web apps on AWS, using Mithril on the front end.
 
 ### Testing
 
