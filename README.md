@@ -62,6 +62,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 - [Podrain](https://github.com/podrain/podrain) - A web-based podcast app with offline capabilities.
 - [gomithrilapp](https://github.com/josephspurrier/gomithrilapp) - Sample notepad application in Mithril (JSX) and Go showing good practices and integrations with modern tools using Bulma, Cypress, Docker, ESLint, gvt, make, Rove, Swagger, and Travis-CI.
 - [gomithriltsapp](https://github.com/josephspurrier/gomithriltsapp) - Sample notepad application in Mithril (TypeScript and HyperScript) and Go showing good practices and integrations with modern tools using Bulma, Cypress, Docker, ESLint, gvt, make, Mock Service Worker, Rove, Swagger, and Travis-CI.
+- [Vegan](https://github.com/mrdaak/vegan) - Minimalistic "Kanban boardish" client.
 
 #### Snippets
 
@@ -84,7 +85,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 - [Mithril/Typescript/PostCSS/Browserify/HMR/Budō](https://github.com/spacejack/mithril-browserify-ts-budo)
 - [Game development with Mithril/THREE.js/Typescript](https://github.com/spacejack/three-mithril-ts)
 - [Mithril Starter Project with Rollup, Babel, LiveReload, Jest and ESLint](https://github.com/ArthurClemens/mithril-starter-rollup)
-- [mithril-starter-kit](https://github.com/dhinesh03/mithril-starter-kit) -  A boilerplate Mithril application using Webpack 4, ES6, Sass/SCSS, Js and scss hot reload and eslint
+- [mithril-starter-kit](https://github.com/dhinesh03/mithril-starter-kit) - A boilerplate Mithril application using Webpack 4, ES6, Sass/SCSS, Js and scss hot reload and eslint
 - [sourcestack](https://github.com/stackplanet/sourcestack) - Template for full-stack Typescript web apps on AWS, using Mithril on the front end.
 
 ### Testing
