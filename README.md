@@ -37,7 +37,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 
 ### Community
 
-- [Gitter Chat Room](https://gitter.im/mithriljs/mithril.js)
+- [Chat Room](https://mithril.zulipchat.com/)
 - Use `#mithriljs` on Twitter and other social media.
 
 ### Learn
