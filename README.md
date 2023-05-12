@@ -63,6 +63,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 - [gomithrilapp](https://github.com/josephspurrier/gomithrilapp) - Sample notepad application in Mithril (JSX) and Go showing good practices and integrations with modern tools using Bulma, Cypress, Docker, ESLint, gvt, make, Rove, Swagger, and Travis-CI.
 - [gomithriltsapp](https://github.com/josephspurrier/gomithriltsapp) - Sample notepad application in Mithril (TypeScript and HyperScript) and Go showing good practices and integrations with modern tools using Bulma, Cypress, Docker, ESLint, gvt, make, Mock Service Worker, Rove, Swagger, and Travis-CI.
 - [Vegan](https://github.com/mrdaak/vegan) - Minimalistic "Kanban boardish" client.
+- [Treehouse](https://github.com/treehousedev/treehouse) - Lightweight outliner app built with Deno and Mithril. Use in the browser or build your own custom app.
 
 #### Snippets
 
