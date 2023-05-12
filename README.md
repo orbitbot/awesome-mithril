@@ -46,6 +46,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 
 - [Isomorphic web application with Mithril](https://isomorphic-mithril.mvlabs.it/en/) - How to write isomorphic web applications, i.e. server-side rendering and client-side code with one codebase.
 - [Example Mithril Components](https://mithril-examples.firebaseapp.com/) - Concise examples with both ES5 and ES6 versions.
+- [Mithril.js by Examples](https://mithril-by-examples.js.org/) - The missing addition to Mithril.js' website with many up-to-date code examples that are often searched for and just work.
 
 ### Examples
 
@@ -113,7 +114,8 @@ Mithril does not require specialized tools for testing, however the following ha
 - [mithril-portal](https://github.com/vrimar/mithril-portal) - a component for rendering inline children to `document.body`
 - [famicon](https://github.com/kliksob/famicon) - Fontawesome svg icons component for mithril
 - [mithril-graphql](https://github.com/benthepoet/mithril-graphql) - A lightweight GraphQL client for the Mithril framework.
-
+- [Maille]([https://mrman.gitlab.io/maille/](https://mrman.gitlab.io/maille/)) - A component library for Mithril
+ 
 ### Tools
 
 - [Mithril Template Converter](https://arthurclemens.github.io/mithril-template-converter/) - Convert HTML to `m()` hyperscript.
